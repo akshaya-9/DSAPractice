@@ -23,3 +23,5 @@ public:
         return checker(root->left,root->right); 
     }
 };
+
+// TC:O(N) , SC:O(N) in case of skew tree it would occupy auxillary stack space
