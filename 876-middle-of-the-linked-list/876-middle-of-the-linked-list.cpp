@@ -21,4 +21,4 @@ public:
     }
 };
 
-//TC:O(N) , SC:O(1)
+//TC:O(n) where n is length of linked list , SC:O(1)
