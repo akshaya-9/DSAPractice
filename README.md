@@ -1,5 +1,5 @@
-## DSA JOURNEY
+## DSA Practice Joruney
 
- All my leetcode practice would be documented here.
+All my leetcode practice would be documented here.
 
- Feel free to refer.
+Feel free to refer.
