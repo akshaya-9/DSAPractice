@@ -13,3 +13,5 @@ public:
         return ans;
     }
 };
+
+TC: O(logx), SC:O(1)
