@@ -12,4 +12,4 @@ public:
     }
 };
 
-//TC:O(N),SC:O(N)
+//TC:O(N),SC:O(1)
