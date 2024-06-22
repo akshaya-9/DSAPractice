@@ -4,7 +4,6 @@ public:
         int left = n-1, right = m-1;
         int idx= n+m-1;
         while(left>=0 && right>=0) {
-            std::cout<<nums1[left] <<" --  "<<nums2[right]<<std::endl;
             if(nums1[left] > nums2[right]) {
                 nums1[idx] = nums1[left];
                 left--;
