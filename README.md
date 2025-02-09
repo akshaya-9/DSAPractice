@@ -10,6 +10,7 @@ Feel free to refer.
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/akshaya-9/DSAPractice/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/akshaya-9/DSAPractice/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -18,4 +19,5 @@ Feel free to refer.
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/akshaya-9/DSAPractice/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/akshaya-9/DSAPractice/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
