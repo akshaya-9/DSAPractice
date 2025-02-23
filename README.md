@@ -13,6 +13,7 @@ Feel free to refer.
 | [0268-missing-number](https://github.com/akshaya-9/DSAPractice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/akshaya-9/DSAPractice/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/akshaya-9/DSAPractice/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/akshaya-9/DSAPractice/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
 |  |
 | ------- |
@@ -28,6 +29,7 @@ Feel free to refer.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/akshaya-9/DSAPractice/tree/master/0268-missing-number) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/akshaya-9/DSAPractice/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,4 +46,8 @@ Feel free to refer.
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/akshaya-9/DSAPractice/tree/master/2271-rearrange-array-elements-by-sign) |
+## Counting
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/akshaya-9/DSAPractice/tree/master/3242-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
