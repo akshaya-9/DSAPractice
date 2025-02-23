@@ -10,6 +10,7 @@ Feel free to refer.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/akshaya-9/DSAPractice/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/akshaya-9/DSAPractice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/akshaya-9/DSAPractice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/akshaya-9/DSAPractice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/akshaya-9/DSAPractice/tree/master/0283-move-zeroes) |
@@ -30,6 +31,7 @@ Feel free to refer.
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/akshaya-9/DSAPractice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/akshaya-9/DSAPractice/tree/master/0268-missing-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/akshaya-9/DSAPractice/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Binary Search
@@ -44,6 +46,7 @@ Feel free to refer.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/akshaya-9/DSAPractice/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/akshaya-9/DSAPractice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/akshaya-9/DSAPractice/tree/master/0268-missing-number) |
 ## Simulation
 |  |
@@ -52,5 +55,10 @@ Feel free to refer.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/akshaya-9/DSAPractice/tree/master/0169-majority-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/akshaya-9/DSAPractice/tree/master/3242-count-elements-with-maximum-frequency) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/akshaya-9/DSAPractice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
