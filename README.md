@@ -10,6 +10,7 @@ Feel free to refer.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/akshaya-9/DSAPractice/tree/master/0075-sort-colors) |
+| [0152-maximum-product-subarray](https://github.com/akshaya-9/DSAPractice/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/akshaya-9/DSAPractice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/akshaya-9/DSAPractice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/akshaya-9/DSAPractice/tree/master/0268-missing-number) |
@@ -61,4 +62,8 @@ Feel free to refer.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akshaya-9/DSAPractice/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/akshaya-9/DSAPractice/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
