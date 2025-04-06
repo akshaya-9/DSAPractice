@@ -9,6 +9,7 @@ Feel free to refer.
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/akshaya-9/DSAPractice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/akshaya-9/DSAPractice/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/akshaya-9/DSAPractice/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/akshaya-9/DSAPractice/tree/master/0169-majority-element) |
@@ -41,6 +42,7 @@ Feel free to refer.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/akshaya-9/DSAPractice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/akshaya-9/DSAPractice/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
