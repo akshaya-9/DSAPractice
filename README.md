@@ -20,6 +20,7 @@ Feel free to refer.
 | [0268-missing-number](https://github.com/akshaya-9/DSAPractice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/akshaya-9/DSAPractice/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/akshaya-9/DSAPractice/tree/master/0560-subarray-sum-equals-k) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/akshaya-9/DSAPractice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/akshaya-9/DSAPractice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/akshaya-9/DSAPractice/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
@@ -80,6 +81,7 @@ Feel free to refer.
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/akshaya-9/DSAPractice/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/akshaya-9/DSAPractice/tree/master/0560-subarray-sum-equals-k) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/akshaya-9/DSAPractice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Greedy
 |  |
 | ------- |
@@ -92,4 +94,8 @@ Feel free to refer.
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/akshaya-9/DSAPractice/tree/master/0206-reverse-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/akshaya-9/DSAPractice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
