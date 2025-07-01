@@ -2,8 +2,8 @@ class Solution {
 public:
     int possibleStringCount(string word) {
           int cnt=0, pos_str=1;
-          char prev;
-          for(int i=0;i<word.length(); i++){
+          char prev = word[0];
+          for(int i=1;i<word.length(); i++){
              if(prev == word[i]) {
                 cnt++;
              } else {
