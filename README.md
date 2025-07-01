@@ -107,6 +107,7 @@ Feel free to refer.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshaya-9/DSAPractice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3617-find-the-original-typed-string-i](https://github.com/akshaya-9/DSAPractice/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
 |  |
 | ------- |
