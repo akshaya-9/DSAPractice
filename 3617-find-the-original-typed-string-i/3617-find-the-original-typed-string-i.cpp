@@ -9,9 +9,8 @@ public:
              } else {
                 pos_str += cnt;
                 cnt =0;
-                prev= word[i];
              }
-             
+            prev= word[i];
           }
           return pos_str+cnt;
     }
