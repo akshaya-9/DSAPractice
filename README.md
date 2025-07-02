@@ -43,6 +43,7 @@ Feel free to refer.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshaya-9/DSAPractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/akshaya-9/DSAPractice/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/akshaya-9/DSAPractice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akshaya-9/DSAPractice/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/akshaya-9/DSAPractice/tree/master/0560-subarray-sum-equals-k) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/akshaya-9/DSAPractice/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -62,6 +63,7 @@ Feel free to refer.
 | ------- |
 | [0075-sort-colors](https://github.com/akshaya-9/DSAPractice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/akshaya-9/DSAPractice/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/akshaya-9/DSAPractice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akshaya-9/DSAPractice/tree/master/0268-missing-number) |
 ## Simulation
 |  |
@@ -108,6 +110,7 @@ Feel free to refer.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshaya-9/DSAPractice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/akshaya-9/DSAPractice/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/akshaya-9/DSAPractice/tree/master/0402-remove-k-digits) |
 | [3617-find-the-original-typed-string-i](https://github.com/akshaya-9/DSAPractice/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
