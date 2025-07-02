@@ -90,6 +90,7 @@ Feel free to refer.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akshaya-9/DSAPractice/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/akshaya-9/DSAPractice/tree/master/0402-remove-k-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -107,13 +108,16 @@ Feel free to refer.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshaya-9/DSAPractice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0402-remove-k-digits](https://github.com/akshaya-9/DSAPractice/tree/master/0402-remove-k-digits) |
 | [3617-find-the-original-typed-string-i](https://github.com/akshaya-9/DSAPractice/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/akshaya-9/DSAPractice/tree/master/0402-remove-k-digits) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/akshaya-9/DSAPractice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/akshaya-9/DSAPractice/tree/master/0402-remove-k-digits) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/akshaya-9/DSAPractice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->
