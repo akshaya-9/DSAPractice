@@ -34,6 +34,7 @@ Feel free to refer.
 | ------- |
 | [0011-container-with-most-water](https://github.com/akshaya-9/DSAPractice/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/akshaya-9/DSAPractice/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/akshaya-9/DSAPractice/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/akshaya-9/DSAPractice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/akshaya-9/DSAPractice/tree/master/0283-move-zeroes) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/akshaya-9/DSAPractice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -42,6 +43,7 @@ Feel free to refer.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshaya-9/DSAPractice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0141-linked-list-cycle](https://github.com/akshaya-9/DSAPractice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/akshaya-9/DSAPractice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/akshaya-9/DSAPractice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akshaya-9/DSAPractice/tree/master/0268-missing-number) |
@@ -97,6 +99,7 @@ Feel free to refer.
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/akshaya-9/DSAPractice/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/akshaya-9/DSAPractice/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
