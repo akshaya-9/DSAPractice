@@ -3,6 +3,7 @@ private:
     void helper(string digits, vector<string> mapping, vector<string>& ans, int idx,string current) {
         if(idx==digits.length()) {
             ans.push_back(current);
+            current = "";
             return;
         }
         int digit = digits[idx]-'0';
