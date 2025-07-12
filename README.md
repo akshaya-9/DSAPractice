@@ -30,6 +30,7 @@ Feel free to refer.
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/akshaya-9/DSAPractice/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/akshaya-9/DSAPractice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/akshaya-9/DSAPractice/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -91,6 +92,7 @@ Feel free to refer.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/akshaya-9/DSAPractice/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/akshaya-9/DSAPractice/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/akshaya-9/DSAPractice/tree/master/0300-longest-increasing-subsequence) |
 ## Prefix Sum
@@ -144,4 +146,8 @@ Feel free to refer.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akshaya-9/DSAPractice/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/akshaya-9/DSAPractice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
