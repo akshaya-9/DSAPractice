@@ -17,6 +17,7 @@ Feel free to refer.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshaya-9/DSAPractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/akshaya-9/DSAPractice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/akshaya-9/DSAPractice/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/akshaya-9/DSAPractice/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/akshaya-9/DSAPractice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/akshaya-9/DSAPractice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/akshaya-9/DSAPractice/tree/master/0283-move-zeroes) |
@@ -166,12 +167,22 @@ Feel free to refer.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/akshaya-9/DSAPractice/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/akshaya-9/DSAPractice/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0104-maximum-depth-of-binary-tree) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/akshaya-9/DSAPractice/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/akshaya-9/DSAPractice/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
