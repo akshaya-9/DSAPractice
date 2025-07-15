@@ -38,6 +38,7 @@ Feel free to refer.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/akshaya-9/DSAPractice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/akshaya-9/DSAPractice/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshaya-9/DSAPractice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/akshaya-9/DSAPractice/tree/master/0075-sort-colors) |
@@ -95,6 +96,7 @@ Feel free to refer.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/akshaya-9/DSAPractice/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/akshaya-9/DSAPractice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/akshaya-9/DSAPractice/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akshaya-9/DSAPractice/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -133,6 +135,7 @@ Feel free to refer.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshaya-9/DSAPractice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/akshaya-9/DSAPractice/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akshaya-9/DSAPractice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0242-valid-anagram](https://github.com/akshaya-9/DSAPractice/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/akshaya-9/DSAPractice/tree/master/0402-remove-k-digits) |
