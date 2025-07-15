@@ -15,9 +15,9 @@ public:
                 start = i;
             }
         }
-        for(int len=3;len<=n;len++) {
-            for(int i=0;i<=n-len;i++) {
-            int j = i+len-1;
+        for(int len=3;len<=n;len++) { // fix length and find all possible ways
+            for(int i=0;i<=n-len;i++) { // out of bound if i>n-len
+            int j = i+len-1;  // find out j
                if(s[i]== s[j] && dp[i+1][j-1]) {
                    dp[i][j] =1;
                     if(ans<len) {
