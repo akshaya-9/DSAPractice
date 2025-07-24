@@ -12,6 +12,7 @@ Feel free to refer.
 | [0011-container-with-most-water](https://github.com/akshaya-9/DSAPractice/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akshaya-9/DSAPractice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/akshaya-9/DSAPractice/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/akshaya-9/DSAPractice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/akshaya-9/DSAPractice/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/akshaya-9/DSAPractice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshaya-9/DSAPractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -96,11 +97,13 @@ Feel free to refer.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/akshaya-9/DSAPractice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/akshaya-9/DSAPractice/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akshaya-9/DSAPractice/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/akshaya-9/DSAPractice/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/akshaya-9/DSAPractice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/akshaya-9/DSAPractice/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akshaya-9/DSAPractice/tree/master/0124-binary-tree-maximum-path-sum) |
