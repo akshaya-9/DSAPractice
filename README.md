@@ -14,6 +14,7 @@ Feel free to refer.
 | [0035-search-insert-position](https://github.com/akshaya-9/DSAPractice/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/akshaya-9/DSAPractice/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/akshaya-9/DSAPractice/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/akshaya-9/DSAPractice/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/akshaya-9/DSAPractice/tree/master/0075-sort-colors) |
 | [0139-word-break](https://github.com/akshaya-9/DSAPractice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/akshaya-9/DSAPractice/tree/master/0152-maximum-product-subarray) |
@@ -111,6 +112,7 @@ Feel free to refer.
 | [0053-maximum-subarray](https://github.com/akshaya-9/DSAPractice/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/akshaya-9/DSAPractice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/akshaya-9/DSAPractice/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/akshaya-9/DSAPractice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/akshaya-9/DSAPractice/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akshaya-9/DSAPractice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/akshaya-9/DSAPractice/tree/master/0139-word-break) |
@@ -229,6 +231,7 @@ Feel free to refer.
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/akshaya-9/DSAPractice/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/akshaya-9/DSAPractice/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/akshaya-9/DSAPractice/tree/master/0200-number-of-islands) |
 | [0898-transpose-matrix](https://github.com/akshaya-9/DSAPractice/tree/master/0898-transpose-matrix) |
 ## Binary Search Tree
