@@ -14,6 +14,7 @@ Feel free to refer.
 | [0035-search-insert-position](https://github.com/akshaya-9/DSAPractice/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/akshaya-9/DSAPractice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/akshaya-9/DSAPractice/tree/master/0075-sort-colors) |
+| [0139-word-break](https://github.com/akshaya-9/DSAPractice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/akshaya-9/DSAPractice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshaya-9/DSAPractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/akshaya-9/DSAPractice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -57,6 +58,7 @@ Feel free to refer.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshaya-9/DSAPractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akshaya-9/DSAPractice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/akshaya-9/DSAPractice/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/akshaya-9/DSAPractice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/akshaya-9/DSAPractice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/akshaya-9/DSAPractice/tree/master/0242-valid-anagram) |
@@ -109,6 +111,7 @@ Feel free to refer.
 | [0062-unique-paths](https://github.com/akshaya-9/DSAPractice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/akshaya-9/DSAPractice/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akshaya-9/DSAPractice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/akshaya-9/DSAPractice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/akshaya-9/DSAPractice/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/akshaya-9/DSAPractice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/akshaya-9/DSAPractice/tree/master/0322-coin-change) |
@@ -149,6 +152,7 @@ Feel free to refer.
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshaya-9/DSAPractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/akshaya-9/DSAPractice/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akshaya-9/DSAPractice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/akshaya-9/DSAPractice/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/akshaya-9/DSAPractice/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/akshaya-9/DSAPractice/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshaya-9/DSAPractice/tree/master/0424-longest-repeating-character-replacement) |
@@ -177,6 +181,7 @@ Feel free to refer.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/akshaya-9/DSAPractice/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/akshaya-9/DSAPractice/tree/master/0139-word-break) |
 ## Tree
 |  |
 | ------- |
@@ -225,4 +230,8 @@ Feel free to refer.
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/akshaya-9/DSAPractice/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
