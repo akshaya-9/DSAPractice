@@ -199,6 +199,7 @@ Feel free to refer.
 | [0226-invert-binary-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -208,6 +209,7 @@ Feel free to refer.
 | [0226-invert-binary-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -225,6 +227,7 @@ Feel free to refer.
 | [0226-invert-binary-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0572-subtree-of-another-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -244,4 +247,12 @@ Feel free to refer.
 |  |
 | ------- |
 | [0139-word-break](https://github.com/akshaya-9/DSAPractice/tree/master/0139-word-break) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
