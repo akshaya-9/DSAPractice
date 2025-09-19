@@ -193,6 +193,7 @@ Feel free to refer.
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/akshaya-9/DSAPractice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akshaya-9/DSAPractice/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -203,6 +204,7 @@ Feel free to refer.
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akshaya-9/DSAPractice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/akshaya-9/DSAPractice/tree/master/0200-number-of-islands) |
@@ -221,6 +223,7 @@ Feel free to refer.
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/akshaya-9/DSAPractice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akshaya-9/DSAPractice/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -242,6 +245,7 @@ Feel free to refer.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Trie
 |  |
