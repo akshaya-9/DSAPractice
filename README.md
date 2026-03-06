@@ -166,6 +166,7 @@ Feel free to refer.
 | [0516-longest-palindromic-subsequence](https://github.com/akshaya-9/DSAPractice/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/akshaya-9/DSAPractice/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/akshaya-9/DSAPractice/tree/master/1250-longest-common-subsequence) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/akshaya-9/DSAPractice/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [3617-find-the-original-typed-string-i](https://github.com/akshaya-9/DSAPractice/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
 |  |
