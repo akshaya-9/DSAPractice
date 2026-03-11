@@ -84,6 +84,7 @@ Feel free to refer.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/akshaya-9/DSAPractice/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/akshaya-9/DSAPractice/tree/master/0338-counting-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -121,6 +122,7 @@ Feel free to refer.
 | [0152-maximum-product-subarray](https://github.com/akshaya-9/DSAPractice/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/akshaya-9/DSAPractice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/akshaya-9/DSAPractice/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/akshaya-9/DSAPractice/tree/master/0338-counting-bits) |
 | [0516-longest-palindromic-subsequence](https://github.com/akshaya-9/DSAPractice/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/akshaya-9/DSAPractice/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/akshaya-9/DSAPractice/tree/master/1250-longest-common-subsequence) |
