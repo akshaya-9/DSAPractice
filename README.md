@@ -44,6 +44,7 @@ Feel free to refer.
 | [0070-climbing-stairs](https://github.com/akshaya-9/DSAPractice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/akshaya-9/DSAPractice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/akshaya-9/DSAPractice/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/akshaya-9/DSAPractice/tree/master/0371-sum-of-two-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +90,7 @@ Feel free to refer.
 | [0191-number-of-1-bits](https://github.com/akshaya-9/DSAPractice/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/akshaya-9/DSAPractice/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/akshaya-9/DSAPractice/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/akshaya-9/DSAPractice/tree/master/0371-sum-of-two-integers) |
 ## Sorting
 |  |
 | ------- |
