@@ -6,12 +6,7 @@ public:
         for(int i=0;i<strs.size();i++) {
             string sorted = strs[i];
             sort(sorted.begin(), sorted.end());
-            if(m.find(sorted) != m.end()) {
-                m[sorted].push_back(strs[i]);
-            }
-            else {
-                m[sorted].push_back(strs[i]);
-            }
+            m[sorted].push_back(strs[i]);
         }
         for(auto &p:m) {
             ans.push_back(p.second);
