@@ -171,6 +171,7 @@ Feel free to refer.
 | [0005-longest-palindromic-substring](https://github.com/akshaya-9/DSAPractice/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akshaya-9/DSAPractice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/akshaya-9/DSAPractice/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/akshaya-9/DSAPractice/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/akshaya-9/DSAPractice/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/akshaya-9/DSAPractice/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/akshaya-9/DSAPractice/tree/master/0402-remove-k-digits) |
