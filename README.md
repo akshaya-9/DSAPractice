@@ -22,6 +22,7 @@ Feel free to refer.
 | [0152-maximum-product-subarray](https://github.com/akshaya-9/DSAPractice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshaya-9/DSAPractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/akshaya-9/DSAPractice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaya-9/DSAPractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/akshaya-9/DSAPractice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/akshaya-9/DSAPractice/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/akshaya-9/DSAPractice/tree/master/0200-number-of-islands) |
@@ -53,6 +54,7 @@ Feel free to refer.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshaya-9/DSAPractice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/akshaya-9/DSAPractice/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/akshaya-9/DSAPractice/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaya-9/DSAPractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/akshaya-9/DSAPractice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/akshaya-9/DSAPractice/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/akshaya-9/DSAPractice/tree/master/0647-palindromic-substrings) |
@@ -79,6 +81,7 @@ Feel free to refer.
 | [0035-search-insert-position](https://github.com/akshaya-9/DSAPractice/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshaya-9/DSAPractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/akshaya-9/DSAPractice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaya-9/DSAPractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/akshaya-9/DSAPractice/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/akshaya-9/DSAPractice/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/akshaya-9/DSAPractice/tree/master/0792-binary-search) |
