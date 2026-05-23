@@ -33,6 +33,7 @@ Feel free to refer.
 | [0322-coin-change](https://github.com/akshaya-9/DSAPractice/tree/master/0322-coin-change) |
 | [0560-subarray-sum-equals-k](https://github.com/akshaya-9/DSAPractice/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/akshaya-9/DSAPractice/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/akshaya-9/DSAPractice/tree/master/0875-koko-eating-bananas) |
 | [0898-transpose-matrix](https://github.com/akshaya-9/DSAPractice/tree/master/0898-transpose-matrix) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/akshaya-9/DSAPractice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/akshaya-9/DSAPractice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -85,6 +86,7 @@ Feel free to refer.
 | [0268-missing-number](https://github.com/akshaya-9/DSAPractice/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/akshaya-9/DSAPractice/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/akshaya-9/DSAPractice/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/akshaya-9/DSAPractice/tree/master/0875-koko-eating-bananas) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/akshaya-9/DSAPractice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Bit Manipulation
 |  |
