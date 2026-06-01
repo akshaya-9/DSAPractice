@@ -35,6 +35,7 @@ Feel free to refer.
 | [0792-binary-search](https://github.com/akshaya-9/DSAPractice/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/akshaya-9/DSAPractice/tree/master/0875-koko-eating-bananas) |
 | [0898-transpose-matrix](https://github.com/akshaya-9/DSAPractice/tree/master/0898-transpose-matrix) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akshaya-9/DSAPractice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/akshaya-9/DSAPractice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/akshaya-9/DSAPractice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/akshaya-9/DSAPractice/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -60,6 +61,7 @@ Feel free to refer.
 | [0189-rotate-array](https://github.com/akshaya-9/DSAPractice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/akshaya-9/DSAPractice/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/akshaya-9/DSAPractice/tree/master/0647-palindromic-substrings) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akshaya-9/DSAPractice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/akshaya-9/DSAPractice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/akshaya-9/DSAPractice/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -88,6 +90,7 @@ Feel free to refer.
 | [0300-longest-increasing-subsequence](https://github.com/akshaya-9/DSAPractice/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/akshaya-9/DSAPractice/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/akshaya-9/DSAPractice/tree/master/0875-koko-eating-bananas) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akshaya-9/DSAPractice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/akshaya-9/DSAPractice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Bit Manipulation
 |  |
@@ -105,6 +108,7 @@ Feel free to refer.
 | [0169-majority-element](https://github.com/akshaya-9/DSAPractice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/akshaya-9/DSAPractice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akshaya-9/DSAPractice/tree/master/0268-missing-number) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akshaya-9/DSAPractice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Simulation
 |  |
 | ------- |
