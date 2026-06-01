@@ -28,6 +28,7 @@ Feel free to refer.
 | [0169-majority-element](https://github.com/akshaya-9/DSAPractice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/akshaya-9/DSAPractice/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/akshaya-9/DSAPractice/tree/master/0200-number-of-islands) |
+| [0216-combination-sum-iii](https://github.com/akshaya-9/DSAPractice/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/akshaya-9/DSAPractice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/akshaya-9/DSAPractice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/akshaya-9/DSAPractice/tree/master/0283-move-zeroes) |
@@ -211,6 +212,7 @@ Feel free to refer.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akshaya-9/DSAPractice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/akshaya-9/DSAPractice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/akshaya-9/DSAPractice/tree/master/0040-combination-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/akshaya-9/DSAPractice/tree/master/0216-combination-sum-iii) |
 ## Combinatorics
 |  |
 | ------- |
