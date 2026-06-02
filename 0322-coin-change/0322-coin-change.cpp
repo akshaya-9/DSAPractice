@@ -1,23 +1,26 @@
 class Solution {
 private:
-    int check(vector<int>& a, int amt, int idx, vector<vector<int>>& dp) {
+    int compute(vector<int>& coins, int amount, int idx, vector<vector<int>>& dp) {
+        if(amount==0) return 0;
+        if(dp[idx][amount]!=-1) return dp[idx][amount];
         if(idx==0) {
-            if(amt%a[0]==0) return amt/a[0];
-            return 1e9;
+            if(coins[idx]<=amount) {
+            if(amount%coins[idx]==0) return dp[idx][amount]= amount/coins[idx];
+            } 
+            return 1e9+7;
         }
-        if(dp[idx][amt]!=-1) return dp[idx][amt];
-        int not_pick = check(a,amt,idx-1 ,dp);
-        int pick = 1e9;
-        if(a[idx]<= amt) {
-            pick = 1 + check(a, amt-a[idx], idx, dp);
+        int pick = 1e9+7;
+        if(coins[idx]<=amount) {
+            pick = 1+compute(coins, amount-coins[idx], idx,dp);
         }
-        return dp[idx][amt] = min(pick, not_pick);
+        int not_pick = compute(coins, amount, idx-1,dp);
+        return dp[idx][amount]= min(pick,not_pick);
     }
 public:
     int coinChange(vector<int>& coins, int amount) {
         int n = coins.size();
-        vector<vector<int>> dp(n,vector<int>(amount+1, -1));
-        int ans= check(coins, amount, n-1, dp);
-        return (ans>=1e9) ? -1: ans;
+        vector<vector<int>> dp(n,vector<int>(amount+1,-1));
+        int ans= compute(coins, amount, coins.size()-1,dp);
+        return (ans>=1e9+7)? -1: ans;
     }
 };
