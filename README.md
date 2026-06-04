@@ -36,6 +36,7 @@ Feel free to refer.
 | [0300-longest-increasing-subsequence](https://github.com/akshaya-9/DSAPractice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/akshaya-9/DSAPractice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/akshaya-9/DSAPractice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/akshaya-9/DSAPractice/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/akshaya-9/DSAPractice/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/akshaya-9/DSAPractice/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/akshaya-9/DSAPractice/tree/master/0875-koko-eating-bananas) |
@@ -149,6 +150,7 @@ Feel free to refer.
 | [0322-coin-change](https://github.com/akshaya-9/DSAPractice/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/akshaya-9/DSAPractice/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/akshaya-9/DSAPractice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/akshaya-9/DSAPractice/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/akshaya-9/DSAPractice/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/akshaya-9/DSAPractice/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/akshaya-9/DSAPractice/tree/master/0647-palindromic-substrings) |
@@ -218,6 +220,7 @@ Feel free to refer.
 | [0040-combination-sum-ii](https://github.com/akshaya-9/DSAPractice/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/akshaya-9/DSAPractice/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/akshaya-9/DSAPractice/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/akshaya-9/DSAPractice/tree/master/0494-target-sum) |
 ## Combinatorics
 |  |
 | ------- |
