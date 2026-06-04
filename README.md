@@ -79,6 +79,7 @@ Feel free to refer.
 | [0139-word-break](https://github.com/akshaya-9/DSAPractice/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/akshaya-9/DSAPractice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/akshaya-9/DSAPractice/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/akshaya-9/DSAPractice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akshaya-9/DSAPractice/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshaya-9/DSAPractice/tree/master/0424-longest-repeating-character-replacement) |
@@ -194,6 +195,7 @@ Feel free to refer.
 | [0049-group-anagrams](https://github.com/akshaya-9/DSAPractice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/akshaya-9/DSAPractice/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/akshaya-9/DSAPractice/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/akshaya-9/DSAPractice/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/akshaya-9/DSAPractice/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshaya-9/DSAPractice/tree/master/0424-longest-repeating-character-replacement) |
@@ -292,6 +294,7 @@ Feel free to refer.
 |  |
 | ------- |
 | [0139-word-break](https://github.com/akshaya-9/DSAPractice/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0208-implement-trie-prefix-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -300,4 +303,8 @@ Feel free to refer.
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0572-subtree-of-another-tree) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
