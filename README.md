@@ -67,6 +67,7 @@ Feel free to refer.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaya-9/DSAPractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/akshaya-9/DSAPractice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/akshaya-9/DSAPractice/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/akshaya-9/DSAPractice/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/akshaya-9/DSAPractice/tree/master/0647-palindromic-substrings) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akshaya-9/DSAPractice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/akshaya-9/DSAPractice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -118,6 +119,7 @@ Feel free to refer.
 | [0215-kth-largest-element-in-an-array](https://github.com/akshaya-9/DSAPractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/akshaya-9/DSAPractice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akshaya-9/DSAPractice/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/akshaya-9/DSAPractice/tree/master/0295-find-median-from-data-stream) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akshaya-9/DSAPractice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Simulation
 |  |
@@ -314,12 +316,18 @@ Feel free to refer.
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/akshaya-9/DSAPractice/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0295-find-median-from-data-stream](https://github.com/akshaya-9/DSAPractice/tree/master/0295-find-median-from-data-stream) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshaya-9/DSAPractice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/akshaya-9/DSAPractice/tree/master/0295-find-median-from-data-stream) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshaya-9/DSAPractice/tree/master/0215-kth-largest-element-in-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/akshaya-9/DSAPractice/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
