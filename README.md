@@ -95,6 +95,7 @@ Feel free to refer.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshaya-9/DSAPractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/akshaya-9/DSAPractice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaya-9/DSAPractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/akshaya-9/DSAPractice/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/akshaya-9/DSAPractice/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/akshaya-9/DSAPractice/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/akshaya-9/DSAPractice/tree/master/0792-binary-search) |
@@ -107,6 +108,7 @@ Feel free to refer.
 | [0078-subsets](https://github.com/akshaya-9/DSAPractice/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/akshaya-9/DSAPractice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/akshaya-9/DSAPractice/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/akshaya-9/DSAPractice/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/akshaya-9/DSAPractice/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/akshaya-9/DSAPractice/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/akshaya-9/DSAPractice/tree/master/0371-sum-of-two-integers) |
@@ -250,6 +252,7 @@ Feel free to refer.
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akshaya-9/DSAPractice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akshaya-9/DSAPractice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/akshaya-9/DSAPractice/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -286,6 +289,7 @@ Feel free to refer.
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akshaya-9/DSAPractice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akshaya-9/DSAPractice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/akshaya-9/DSAPractice/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
