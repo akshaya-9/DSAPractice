@@ -177,6 +177,7 @@ Feel free to refer.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshaya-9/DSAPractice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/akshaya-9/DSAPractice/tree/master/0021-merge-two-sorted-lists) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/akshaya-9/DSAPractice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/akshaya-9/DSAPractice/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/akshaya-9/DSAPractice/tree/master/0206-reverse-linked-list) |
 ## Recursion
@@ -213,6 +214,7 @@ Feel free to refer.
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/akshaya-9/DSAPractice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0402-remove-k-digits](https://github.com/akshaya-9/DSAPractice/tree/master/0402-remove-k-digits) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/akshaya-9/DSAPractice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
@@ -246,6 +248,7 @@ Feel free to refer.
 | [0100-same-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/akshaya-9/DSAPractice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/akshaya-9/DSAPractice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akshaya-9/DSAPractice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -257,6 +260,7 @@ Feel free to refer.
 | [0098-validate-binary-search-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/akshaya-9/DSAPractice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akshaya-9/DSAPractice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/akshaya-9/DSAPractice/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/akshaya-9/DSAPractice/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -280,6 +284,7 @@ Feel free to refer.
 | [0100-same-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/akshaya-9/DSAPractice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/akshaya-9/DSAPractice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akshaya-9/DSAPractice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
