@@ -10,14 +10,15 @@
  * };
  */
 class Solution {
-public:
-    int helper_func(TreeNode* root) {
-        if(root==NULL) return NULL;
-        int left = helper_func(root->left);
-        int right = helper_func(root->right);
-        return 1+ max(left,right);
+    int depth(TreeNode* root) {
+        if(root==NULL) return 0;
+        int left=INT_MIN, right= INT_MIN;
+        left = depth(root->left);
+        right = depth(root->right);
+        return 1+max(left,right);
     }
+public:
     int maxDepth(TreeNode* root) {
-       return helper_func(root);        
+        return depth(root);
     }
 };
