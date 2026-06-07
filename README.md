@@ -36,6 +36,7 @@ Feel free to refer.
 | [0283-move-zeroes](https://github.com/akshaya-9/DSAPractice/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/akshaya-9/DSAPractice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/akshaya-9/DSAPractice/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/akshaya-9/DSAPractice/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/akshaya-9/DSAPractice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/akshaya-9/DSAPractice/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/akshaya-9/DSAPractice/tree/master/0560-subarray-sum-equals-k) |
@@ -85,6 +86,7 @@ Feel free to refer.
 | [0208-implement-trie-prefix-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/akshaya-9/DSAPractice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akshaya-9/DSAPractice/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/akshaya-9/DSAPractice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshaya-9/DSAPractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/akshaya-9/DSAPractice/tree/master/0560-subarray-sum-equals-k) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/akshaya-9/DSAPractice/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -123,6 +125,7 @@ Feel free to refer.
 | [0242-valid-anagram](https://github.com/akshaya-9/DSAPractice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akshaya-9/DSAPractice/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/akshaya-9/DSAPractice/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/akshaya-9/DSAPractice/tree/master/0347-top-k-frequent-elements) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akshaya-9/DSAPractice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Simulation
 |  |
@@ -133,6 +136,7 @@ Feel free to refer.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akshaya-9/DSAPractice/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/akshaya-9/DSAPractice/tree/master/0347-top-k-frequent-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/akshaya-9/DSAPractice/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
 |  |
@@ -142,6 +146,7 @@ Feel free to refer.
 | [0190-reverse-bits](https://github.com/akshaya-9/DSAPractice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/akshaya-9/DSAPractice/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshaya-9/DSAPractice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/akshaya-9/DSAPractice/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -347,10 +352,12 @@ Feel free to refer.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshaya-9/DSAPractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/akshaya-9/DSAPractice/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/akshaya-9/DSAPractice/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshaya-9/DSAPractice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/akshaya-9/DSAPractice/tree/master/0347-top-k-frequent-elements) |
 ## Data Stream
 |  |
 | ------- |
@@ -359,4 +366,8 @@ Feel free to refer.
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/akshaya-9/DSAPractice/tree/master/0133-clone-graph) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/akshaya-9/DSAPractice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
