@@ -21,6 +21,7 @@ Feel free to refer.
 | [0075-sort-colors](https://github.com/akshaya-9/DSAPractice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/akshaya-9/DSAPractice/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/akshaya-9/DSAPractice/tree/master/0120-triangle) |
+| [0135-candy](https://github.com/akshaya-9/DSAPractice/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/akshaya-9/DSAPractice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/akshaya-9/DSAPractice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshaya-9/DSAPractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -179,6 +180,7 @@ Feel free to refer.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akshaya-9/DSAPractice/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/akshaya-9/DSAPractice/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/akshaya-9/DSAPractice/tree/master/0402-remove-k-digits) |
 ## Linked List
 |  |
