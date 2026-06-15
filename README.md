@@ -268,6 +268,7 @@ Feel free to refer.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/akshaya-9/DSAPractice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -286,6 +287,7 @@ Feel free to refer.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/akshaya-9/DSAPractice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -298,6 +300,7 @@ Feel free to refer.
 | [0226-invert-binary-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/akshaya-9/DSAPractice/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/akshaya-9/DSAPractice/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -315,6 +318,7 @@ Feel free to refer.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/akshaya-9/DSAPractice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Union Find
 |  |
 | ------- |
