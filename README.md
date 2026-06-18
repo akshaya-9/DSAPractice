@@ -70,6 +70,7 @@ Feel free to refer.
 | [0189-rotate-array](https://github.com/akshaya-9/DSAPractice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/akshaya-9/DSAPractice/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/akshaya-9/DSAPractice/tree/master/0295-find-median-from-data-stream) |
+| [0392-is-subsequence](https://github.com/akshaya-9/DSAPractice/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/akshaya-9/DSAPractice/tree/master/0647-palindromic-substrings) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akshaya-9/DSAPractice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/akshaya-9/DSAPractice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -164,6 +165,7 @@ Feel free to refer.
 | [0300-longest-increasing-subsequence](https://github.com/akshaya-9/DSAPractice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/akshaya-9/DSAPractice/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/akshaya-9/DSAPractice/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/akshaya-9/DSAPractice/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/akshaya-9/DSAPractice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/akshaya-9/DSAPractice/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/akshaya-9/DSAPractice/tree/master/0509-fibonacci-number) |
@@ -214,6 +216,7 @@ Feel free to refer.
 | [0208-implement-trie-prefix-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/akshaya-9/DSAPractice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/akshaya-9/DSAPractice/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/akshaya-9/DSAPractice/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/akshaya-9/DSAPractice/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshaya-9/DSAPractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/akshaya-9/DSAPractice/tree/master/0516-longest-palindromic-subsequence) |
