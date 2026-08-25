@@ -88,6 +88,7 @@ Feel free to refer.
 | [0141-linked-list-cycle](https://github.com/akshaya-9/DSAPractice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/akshaya-9/DSAPractice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/akshaya-9/DSAPractice/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/akshaya-9/DSAPractice/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/akshaya-9/DSAPractice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akshaya-9/DSAPractice/tree/master/0268-missing-number) |
@@ -218,6 +219,7 @@ Feel free to refer.
 | [0049-group-anagrams](https://github.com/akshaya-9/DSAPractice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/akshaya-9/DSAPractice/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/akshaya-9/DSAPractice/tree/master/0139-word-break) |
+| [0205-isomorphic-strings](https://github.com/akshaya-9/DSAPractice/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/akshaya-9/DSAPractice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/akshaya-9/DSAPractice/tree/master/0242-valid-anagram) |
