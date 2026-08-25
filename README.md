@@ -55,6 +55,7 @@ Feel free to refer.
 | [0062-unique-paths](https://github.com/akshaya-9/DSAPractice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/akshaya-9/DSAPractice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/akshaya-9/DSAPractice/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/akshaya-9/DSAPractice/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/akshaya-9/DSAPractice/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/akshaya-9/DSAPractice/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/akshaya-9/DSAPractice/tree/master/0509-fibonacci-number) |
@@ -68,6 +69,7 @@ Feel free to refer.
 | [0141-linked-list-cycle](https://github.com/akshaya-9/DSAPractice/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaya-9/DSAPractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/akshaya-9/DSAPractice/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/akshaya-9/DSAPractice/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/akshaya-9/DSAPractice/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/akshaya-9/DSAPractice/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/akshaya-9/DSAPractice/tree/master/0392-is-subsequence) |
@@ -85,6 +87,7 @@ Feel free to refer.
 | [0139-word-break](https://github.com/akshaya-9/DSAPractice/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/akshaya-9/DSAPractice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/akshaya-9/DSAPractice/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/akshaya-9/DSAPractice/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/akshaya-9/DSAPractice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akshaya-9/DSAPractice/tree/master/0268-missing-number) |
@@ -383,4 +386,8 @@ Feel free to refer.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/akshaya-9/DSAPractice/tree/master/0347-top-k-frequent-elements) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/akshaya-9/DSAPractice/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
