@@ -5,21 +5,15 @@ public:
         set<string> used;
         int j=0;
         for(int i=0;i<pattern.length();i++){
-            stack<char> st;
             string word="";
             if(j>=s.length()){
                 return false;
             }
             while(j<s.length() && s[j]!=' '){
-                st.push(s[j]);
+                word += s[j];
                 j++;
             }
             j = j+1;
-            while(!st.empty()) {
-                word += st.top();
-                st.pop();
-            }
-            reverse(word.begin(),word.end());
             cout<<"word "<<word<<endl;
             if(m.find(pattern[i])==m.end()){
                 if(used.find(word)!=used.end()){
