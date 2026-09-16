@@ -95,6 +95,7 @@ Feel free to refer.
 | [0208-implement-trie-prefix-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/akshaya-9/DSAPractice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akshaya-9/DSAPractice/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/akshaya-9/DSAPractice/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/akshaya-9/DSAPractice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/akshaya-9/DSAPractice/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshaya-9/DSAPractice/tree/master/0424-longest-repeating-character-replacement) |
@@ -229,6 +230,7 @@ Feel free to refer.
 | [0208-implement-trie-prefix-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/akshaya-9/DSAPractice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/akshaya-9/DSAPractice/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/akshaya-9/DSAPractice/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/akshaya-9/DSAPractice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/akshaya-9/DSAPractice/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/akshaya-9/DSAPractice/tree/master/0402-remove-k-digits) |
