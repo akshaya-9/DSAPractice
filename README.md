@@ -36,6 +36,7 @@ Feel free to refer.
 | [0213-house-robber-ii](https://github.com/akshaya-9/DSAPractice/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshaya-9/DSAPractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/akshaya-9/DSAPractice/tree/master/0216-combination-sum-iii) |
+| [0219-contains-duplicate-ii](https://github.com/akshaya-9/DSAPractice/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/akshaya-9/DSAPractice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/akshaya-9/DSAPractice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/akshaya-9/DSAPractice/tree/master/0283-move-zeroes) |
@@ -95,6 +96,7 @@ Feel free to refer.
 | [0202-happy-number](https://github.com/akshaya-9/DSAPractice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/akshaya-9/DSAPractice/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0208-implement-trie-prefix-tree) |
+| [0219-contains-duplicate-ii](https://github.com/akshaya-9/DSAPractice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/akshaya-9/DSAPractice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akshaya-9/DSAPractice/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/akshaya-9/DSAPractice/tree/master/0290-word-pattern) |
@@ -220,6 +222,7 @@ Feel free to refer.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshaya-9/DSAPractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/akshaya-9/DSAPractice/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/akshaya-9/DSAPractice/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshaya-9/DSAPractice/tree/master/0424-longest-repeating-character-replacement) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/akshaya-9/DSAPractice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## String
