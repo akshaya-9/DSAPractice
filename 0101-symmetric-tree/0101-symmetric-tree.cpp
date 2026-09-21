@@ -13,9 +13,9 @@ class Solution {
 private:
    bool check(TreeNode* left,TreeNode* right){
     if(left==NULL && right==NULL) return true;
-    if(left==NULL || right==NULL) return false;
+    if((left==NULL &&right!=NULL) || (right==NULL&&left!=NULL)) return false;
     if(left->val!=right->val) return false;
-    return check(left->left,right->right) || check(left->right, right->left);
+    return check(left->left,right->right) && check(left->right, right->left);
    }
 public:
     bool isSymmetric(TreeNode* root) {
