@@ -5,7 +5,7 @@ public:
         int l=0,h=(n*m)-1;
         while(l<=h){
             int mid= (l+h)/2;
-            int row=mid/n,col=mid%n;
+            int row=mid/m,col=mid%m;
             if(matrix[row][col]==target) return true;
             if(matrix[row][col]<target) l=mid+1;
             else h=mid-1;
