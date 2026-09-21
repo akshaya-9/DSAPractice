@@ -9,6 +9,7 @@ Feel free to refer.
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/akshaya-9/DSAPractice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/akshaya-9/DSAPractice/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/akshaya-9/DSAPractice/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akshaya-9/DSAPractice/tree/master/0033-search-in-rotated-sorted-array) |
@@ -109,6 +110,7 @@ Feel free to refer.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/akshaya-9/DSAPractice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akshaya-9/DSAPractice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/akshaya-9/DSAPractice/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/akshaya-9/DSAPractice/tree/master/0074-search-a-2d-matrix) |
@@ -162,6 +164,7 @@ Feel free to refer.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/akshaya-9/DSAPractice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/akshaya-9/DSAPractice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/akshaya-9/DSAPractice/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/akshaya-9/DSAPractice/tree/master/0190-reverse-bits) |
