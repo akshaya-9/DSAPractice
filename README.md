@@ -184,6 +184,7 @@ Feel free to refer.
 | [0063-unique-paths-ii](https://github.com/akshaya-9/DSAPractice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/akshaya-9/DSAPractice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/akshaya-9/DSAPractice/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/akshaya-9/DSAPractice/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/akshaya-9/DSAPractice/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/akshaya-9/DSAPractice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akshaya-9/DSAPractice/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -245,6 +246,7 @@ Feel free to refer.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akshaya-9/DSAPractice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/akshaya-9/DSAPractice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/akshaya-9/DSAPractice/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/akshaya-9/DSAPractice/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/akshaya-9/DSAPractice/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/akshaya-9/DSAPractice/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/akshaya-9/DSAPractice/tree/master/0208-implement-trie-prefix-tree) |
