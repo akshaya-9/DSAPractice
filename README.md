@@ -220,6 +220,7 @@ Feel free to refer.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshaya-9/DSAPractice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/akshaya-9/DSAPractice/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/akshaya-9/DSAPractice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akshaya-9/DSAPractice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/akshaya-9/DSAPractice/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/akshaya-9/DSAPractice/tree/master/0206-reverse-linked-list) |
@@ -227,6 +228,7 @@ Feel free to refer.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/akshaya-9/DSAPractice/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/akshaya-9/DSAPractice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/akshaya-9/DSAPractice/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/akshaya-9/DSAPractice/tree/master/0509-fibonacci-number) |
 ## Sliding Window
