@@ -38,10 +38,8 @@ public:
         while(temp!=NULL) {
             ListNode* knode = findKNode(temp,k);
             if(knode==NULL) {
-            if(prevNode!=NULL) {
-                prevNode->next=temp;
+                if(prevNode!=NULL) prevNode->next=temp;
                 break;
-            }
             }
             nextNode = knode->next;
             knode->next=NULL;
