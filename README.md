@@ -281,6 +281,7 @@ Feel free to refer.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akshaya-9/DSAPractice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/akshaya-9/DSAPractice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/akshaya-9/DSAPractice/tree/master/0040-combination-sum-ii) |
+| [0077-combinations](https://github.com/akshaya-9/DSAPractice/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/akshaya-9/DSAPractice/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/akshaya-9/DSAPractice/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/akshaya-9/DSAPractice/tree/master/0494-target-sum) |
