@@ -55,6 +55,7 @@ Feel free to refer.
 | [0792-binary-search](https://github.com/akshaya-9/DSAPractice/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/akshaya-9/DSAPractice/tree/master/0875-koko-eating-bananas) |
 | [0898-transpose-matrix](https://github.com/akshaya-9/DSAPractice/tree/master/0898-transpose-matrix) |
+| [0918-maximum-sum-circular-subarray](https://github.com/akshaya-9/DSAPractice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/akshaya-9/DSAPractice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akshaya-9/DSAPractice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/akshaya-9/DSAPractice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -176,6 +177,7 @@ Feel free to refer.
 | [0191-number-of-1-bits](https://github.com/akshaya-9/DSAPractice/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshaya-9/DSAPractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/akshaya-9/DSAPractice/tree/master/0347-top-k-frequent-elements) |
+| [0918-maximum-sum-circular-subarray](https://github.com/akshaya-9/DSAPractice/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -202,6 +204,7 @@ Feel free to refer.
 | [0509-fibonacci-number](https://github.com/akshaya-9/DSAPractice/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/akshaya-9/DSAPractice/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/akshaya-9/DSAPractice/tree/master/0647-palindromic-substrings) |
+| [0918-maximum-sum-circular-subarray](https://github.com/akshaya-9/DSAPractice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1250-longest-common-subsequence](https://github.com/akshaya-9/DSAPractice/tree/master/1250-longest-common-subsequence) |
 ## Prefix Sum
 |  |
@@ -439,4 +442,12 @@ Feel free to refer.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/akshaya-9/DSAPractice/tree/master/0202-happy-number) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/akshaya-9/DSAPractice/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/akshaya-9/DSAPractice/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
