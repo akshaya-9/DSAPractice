@@ -80,6 +80,7 @@ Feel free to refer.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshaya-9/DSAPractice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/akshaya-9/DSAPractice/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/akshaya-9/DSAPractice/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/akshaya-9/DSAPractice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/akshaya-9/DSAPractice/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaya-9/DSAPractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/akshaya-9/DSAPractice/tree/master/0189-rotate-array) |
@@ -225,6 +226,7 @@ Feel free to refer.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshaya-9/DSAPractice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/akshaya-9/DSAPractice/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/akshaya-9/DSAPractice/tree/master/0025-reverse-nodes-in-k-group) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/akshaya-9/DSAPractice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akshaya-9/DSAPractice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/akshaya-9/DSAPractice/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/akshaya-9/DSAPractice/tree/master/0206-reverse-linked-list) |
